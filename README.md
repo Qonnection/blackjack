@@ -6,7 +6,7 @@ This is a beginner project made to practice:
 - game loops
 - functions
 - basic game logic
-- simple AI (dealer rules)
+- basic rule-based dealer logic
 
 ---
 
