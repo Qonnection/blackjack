@@ -2,7 +2,7 @@
 
 A simple command-line Blackjack game written in Python.
 
-This is a beginner project made to practice:
+This is a simple project made to practice:
 - game loops
 - functions
 - basic game logic
